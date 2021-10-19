@@ -6,7 +6,8 @@ Here we deliver the medical dialogue corpus collected from online open source. T
 4. https://github.com/liuhuanyong/MiningZhiDaoQACorpus
 5. https://github.com/zhangsheng93/cMedQA2
 6. https://github.com/lddsdu/VRBot
-7. 
+
+
 # Curriculum boost learning strategy
 1. The original pre-trained model (i.e., BertGPT-Entity) is utilized to initialize the parameters of the
 encoder and decoder, which is fine-tuned with the cleaned online medical dialogues. Then, we use
